@@ -66,3 +66,12 @@ def isNotNegative(num):
         return True
     else:
         return False
+
+def Zero():
+    return 0
+
+def One():
+    return 1
+
+def WhatTheFuckIsThisNumber(num):
+    return num
