@@ -1,5 +1,5 @@
 #__init__.py
-from .math_lib import *
+from .UselessMath import *
 __all__ = [
     "isOdd",
     "isEven",
